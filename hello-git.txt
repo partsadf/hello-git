@@ -1,7 +1,11 @@
 hello git
 hello git
 hello git
-hello git
+hello git current test
 
+<<<<<<< HEAD
 hello git master test
+=======
+hello git 
+>>>>>>> current
 hello git current
